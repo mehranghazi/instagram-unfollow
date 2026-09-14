@@ -4,3 +4,4 @@ instagram_browser_profile/
 !sample_batch.csv
 __pycache__/
 *.pyc
+.DS_Store
