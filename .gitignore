@@ -1,0 +1,6 @@
+instagram_browser_profile/
+*.csv
+*.txt
+!sample_batch.csv
+__pycache__/
+*.pyc
